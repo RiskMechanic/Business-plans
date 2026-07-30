@@ -2,11 +2,11 @@
 
 A collection of business plans developed during my BSc Finanacial planning coursework, showcasing structured strategic thinking, market analysis, financial modeling, and operational planning.  
 
-Projects may include:  
+Project includes:  
 
 -> Full business plan documentation (market, product, operations, financials)  
 
--> Competitive and industry analysis using established frameworks  
+-> Competitive and industry analysis  
 
 -> Financial projections and scenario modeling  
   
